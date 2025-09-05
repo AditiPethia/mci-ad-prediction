@@ -1,3 +1,12 @@
+**Ancillary repository for dissertation**
+>
+> **Countdown to Alzheimer’s – A comparative survival analysis of clinical vs miRNA models for predicting MCI→AD conversion**  
+> **Aditi Pethia**  
+> **Stephenson College, Durham University**  
+>  
+> A report presented for the degree of **Master of Data Science – Health**  
+> **September 2025**
+
 # MCI→AD Prediction (clinical-first) — GSE150693
 
 Leakage-safe survival pipeline for predicting **time-to-conversion** from Mild Cognitive Impairment (MCI) to Alzheimer’s disease (AD), re-analysing the public **GSE150693** dataset.  
